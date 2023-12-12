@@ -18,5 +18,7 @@ public class Daire {
         double DaireDilimiAlan = (π * (r*r) * a)/360;
 
         System.out.println("Daire Diliminizin Alanı : " + DaireDilimiAlan);
+    
+        scanner.close();
     }
 }
